@@ -1,0 +1,27 @@
+@font-face {
+  
+  font-family: "Redacted";
+  src: url("http://files.simey.me/fonts/redacted-regular.eot");
+  src: url("http://files.simey.me/fonts/redacted-regular.eot?#iefix") format("embedded-opentype"),
+      url("http://files.simey.me/fonts/redacted-regular.woff") format("woff"),
+      url("http://files.simey.me/fonts/redacted-regular.ttf") format("truetype"),
+      url("http://files.simey.me/fonts/redacted-regular.svg#redactedregular") format("svg");
+  
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+@font-face {
+  
+  font-family: "Redacted Script";
+  src: url("http://files.simey.me/fonts/redacted-script-regular.eot");
+  src: url("http://files.simey.me/fonts/redacted-script-regular.eot?#iefix") format("embedded-opentype"),
+      url("http://files.simey.me/fonts/redacted-script-regular.woff") format("woff"),
+      url("http://files.simey.me/fonts/redacted-script-regular.ttf") format("truetype"),
+      url("http://files.simey.me/fonts/redacted-script-regular.svg#filename") format("svg");
+  
+  font-weight: normal;
+  font-style: normal;
+
+}
